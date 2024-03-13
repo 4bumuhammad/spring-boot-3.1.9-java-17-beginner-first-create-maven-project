@@ -146,3 +146,7 @@
 </p>
 
 ---
+
+<p align="center">
+    <img src="./gambar-petunjuk/Done-100.png" alt="done" style="display: block; margin: 0 auto;">
+</p>

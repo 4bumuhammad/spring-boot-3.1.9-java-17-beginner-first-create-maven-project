@@ -64,7 +64,7 @@
         [INFO] Nothing to compile - all classes are up to date
         [INFO] 
         [INFO] --- maven-resources-plugin:3.3.1:testResources (default-testResources) @ demo-api ---
-        [INFO] skip non existing resourceDirectory /Users/powercommerce/Documents/test/from-github-all/spring-boot-3.1.9-java-17-beginner-first-create-maven-project/demo-api/src/test/resources
+        [INFO] skip non existing resourceDirectory /Users/.../spring-boot-3.1.9-java-17-beginner-first-create-maven-project/demo-api/src/test/resources
         [INFO] 
         [INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ demo-api ---
         [INFO] Changes detected - recompiling the module! :input tree
@@ -84,7 +84,7 @@
         =========|_|==============|___/=/_/_/_/
         :: Spring Boot ::                (v3.1.9)
 
-        2024-03-13T09:06:15.608+07:00  INFO 64617 --- [  restartedMain] com.domain.demoapi.DemoApiApplication    : Starting DemoApiApplication using Java 17.0.9 with PID 64617 (/Users/powercommerce/Documents/test/from-github-all/spring-boot-3.1.9-java-17-beginner-first-create-maven-project/demo-api/target/classes started by powercommerce in /Users/powercommerce/Documents/test/from-github-all/spring-boot-3.1.9-java-17-beginner-first-create-maven-project/demo-api)
+        2024-03-13T09:06:15.608+07:00  INFO 64617 --- [  restartedMain] com.domain.demoapi.DemoApiApplication    : Starting DemoApiApplication using Java 17.0.9 with PID 64617 (/Users/.../spring-boot-3.1.9-java-17-beginner-first-create-maven-project/demo-api/target/classes started by powercommerce in /Users/.../spring-boot-3.1.9-java-17-beginner-first-create-maven-project/demo-api)
         2024-03-13T09:06:15.610+07:00  INFO 64617 --- [  restartedMain] com.domain.demoapi.DemoApiApplication    : No active profile set, falling back to 1 default profile: "default"
         2024-03-13T09:06:15.634+07:00  INFO 64617 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
         2024-03-13T09:06:15.634+07:00  INFO 64617 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'

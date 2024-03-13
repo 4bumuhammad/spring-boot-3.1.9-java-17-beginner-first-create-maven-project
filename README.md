@@ -23,18 +23,18 @@
 ### &#x1F530; Begin project
 
 - Create Project (summary) :
--   VSC Open Command Palate ( up + command + shift + p)
--   keyword "> spring", select `Spring Initializr: Create a Maven Project`
--   Specify Spring Boot version : 3.1.9
--   Specify project language : Java
--   package name : com.domain
--   Artifact ID : demo-api
--   Specify package type : Jar
--   Java Version : 17
--   Choose dependencies : 
-    -> Spring Web
-    -> Spring Boot DevTools
-    -> Lombok ( function : reduces boilerplate code )
+-  - VSC Open Command Palate ( up + command + shift + p)
+-  - keyword "> spring", select `Spring Initializr: Create a Maven Project`
+-  - Specify Spring Boot version : 3.1.9
+-  - Specify project language : Java
+-  - package name : com.domain
+-  - Artifact ID : demo-api
+-  - Specify package type : Jar
+-  - Java Version : 17
+-  - Choose dependencies : 
+        - -> Spring Web
+        - -> Spring Boot DevTools
+        - -> Lombok ( function : reduces boilerplate code )
 
 
  ### &#x1F530; Run project

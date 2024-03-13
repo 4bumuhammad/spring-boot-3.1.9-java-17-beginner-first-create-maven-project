@@ -100,6 +100,8 @@
 
 ---
 
+## &#x1FA90; explanation with screen image capture
+
 <p align="center">
     <img src="./gambar-petunjuk/ss_beginner_001.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
 </p>

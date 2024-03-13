@@ -108,3 +108,41 @@
 <p align="center">
     <img src="./gambar-petunjuk/ss_beginner_002.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
 </p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_003.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_004.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_005.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_006.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_007.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_008.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_009.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_010.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_011.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_012.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_013.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_014.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+
+---

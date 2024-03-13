@@ -9,7 +9,7 @@
 ### &#x1F530; About :
 
     [Visual Studio Code]
-    
+
         Version: 1.87.0 (Universal)
         Commit: 019f4d1419fbc8219a181fab7892ebccf7ee29a2
         Date: 2024-02-27T23:42:56.944Z
@@ -96,3 +96,13 @@
         2024-03-13T09:06:16.179+07:00  INFO 64617 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
         2024-03-13T09:06:16.197+07:00  INFO 64617 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
         2024-03-13T09:06:16.203+07:00  INFO 64617 --- [  restartedMain] com.domain.demoapi.DemoApiApplication    : Started DemoApiApplication in 0.744 seconds (process running for 0.948)
+
+
+---
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_001.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_beginner_002.png" alt="ss_beginner" style="display: block; margin: 0 auto;">
+</p>

@@ -98,6 +98,13 @@
         2024-03-13T09:06:16.203+07:00  INFO 64617 --- [  restartedMain] com.domain.demoapi.DemoApiApplication    : Started DemoApiApplication in 0.744 seconds (process running for 0.948)
 
 
+
+Open Browser :
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_result_in_web.png" alt="ss_result_in_web" style="display: block; margin: 0 auto;">
+</p>
+
 ---
 
 ## &#x1FA90; explanation with screen image capture

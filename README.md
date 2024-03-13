@@ -9,15 +9,16 @@
 ### &#x1F530; About :
 
     [Visual Studio Code]
-    Version: 1.87.0 (Universal)
-    Commit: 019f4d1419fbc8219a181fab7892ebccf7ee29a2
-    Date: 2024-02-27T23:42:56.944Z
-    Electron: 27.3.2
-    ElectronBuildId: 26836302
-    Chromium: 118.0.5993.159
-    Node.js: 18.17.1
-    V8: 11.8.172.18-electron.0
-    OS: Darwin arm64 22.4.0
+    
+        Version: 1.87.0 (Universal)
+        Commit: 019f4d1419fbc8219a181fab7892ebccf7ee29a2
+        Date: 2024-02-27T23:42:56.944Z
+        Electron: 27.3.2
+        ElectronBuildId: 26836302
+        Chromium: 118.0.5993.159
+        Node.js: 18.17.1
+        V8: 11.8.172.18-electron.0
+        OS: Darwin arm64 22.4.0
 
 
 ### &#x1F530; Begin project
